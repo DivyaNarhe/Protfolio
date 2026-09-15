@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
-import divyaPhoto from './imports/n_1.png'
+import divyaPhoto from './assets/n_1.png'
 
 // ══════════════════════════════════════════════════════════════════════════════
 // HOOKS
