@@ -835,12 +835,6 @@ function Hero({ openModal }: { openModal: () => void }) {
                   padding: '20px',
                   background: 'linear-gradient(to top, rgba(6,28,50,0.85), transparent)',
                 }}>
-                  <div className="font-mono text-[0.65rem] tracking-[0.14em] text-[#B8DFFF] uppercase mb-1">
-                    Based in India
-                  </div>
-                  <div className="font-display font-bold text-white text-lg">
-                    Open to Remote Work
-                  </div>
                 </div>
               </div>
 
